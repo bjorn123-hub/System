@@ -1,0 +1,11 @@
+.w-450 {
+    width: 450px;
+}
+.vh-100 {
+    min-height: 100hv;
+}
+
+.about-item img {
+    max-width: 100px; /* Adjust as needed */
+    height: auto;  /* Maintain aspect ratio */
+}
